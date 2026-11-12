@@ -1,0 +1,13 @@
+{
+    "TC_001_Login with valid data": 
+    {
+    "UserName1": "admin",
+    "Password1": "admin"
+    },
+    
+    "TC_002_Login with invalid data": 
+    {
+    "UserName1": "admin111",
+    "Password1": "admin111"
+    }
+}
